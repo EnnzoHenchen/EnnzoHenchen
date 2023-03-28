@@ -4,6 +4,6 @@
 
 - 👨‍💻 Back-End Developer
 - 📚 Computer Science
-- 💻 Studying JSF with PrimeFaces
+- 💻 Studying JPA with Hibernate
 - ✝️Servant of Christ
 
