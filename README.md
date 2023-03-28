@@ -4,6 +4,6 @@
 
 - 👨‍💻 Back-End Developer
 - 📚 Computer Science
-- 💻 Studying JPA with Hibernate
+- 💻 Studying Spring Boot and Angular
 - ✝️Servant of Christ
 
