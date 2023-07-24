@@ -4,6 +4,6 @@
 
 - 👨‍💻 Back-End Developer
 - 📚 Computer Science
-- 💻 Studying Spring Boot and Angular
+- 💻 Studying Spring Boot and Vue.js
 - ✝️Servant of Christ
 
