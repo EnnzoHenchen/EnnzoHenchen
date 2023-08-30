@@ -4,6 +4,6 @@
 
 - 👨‍💻 Software Developer
 - 📚 Computer Science
-- 💻 Studying Spring Boot and Vue.js
+- 💻 Spring Boot and Vue.js
 - ✝️Servant of Christ
 
