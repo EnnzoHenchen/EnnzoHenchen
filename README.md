@@ -12,10 +12,4 @@
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EnnzoHenchen&show_icons=true&theme=radical)
-
----
-
 ✨ _“Transformando ideias em soluções práticas e escaláveis”_
