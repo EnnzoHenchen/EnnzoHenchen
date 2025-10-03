@@ -36,7 +36,6 @@ Sou desenvolvedor apaixonado por tecnologia, aprendizado contínuo e por criar s
 ## 📈 Estatísticas do GitHub  
 
 <p align="center">
-  <img height="180em" src="https://https://github-readme-stats-coral-ten-26.vercel.app/api?username=EnnzoHenchen&show_icons=true&theme=radical&cache_buster=2025" alt="Estatísticas do GitHub" />
   <img height="180em" src="https://github-readme-stats-coral-ten-26.vercel.app/api/top-langs/?username=EnnzoHenchen&layout=compact&langs_count=8&theme=radical&cache_buster=2025" alt="Linguagens mais usadas" />
 </p>
 
