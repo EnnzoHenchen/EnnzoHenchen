@@ -1,15 +1,29 @@
-# 👋 Olá, eu sou Ennzo Henchen
+# 👋 Olá, eu sou Ennzo Henchen  
 
-💻 Desenvolvedor focado em **Vue.js** e **Spring Boot**  
-🚀 Criando sistemas completos do **frontend ao backend**  
-📊 Apaixonado por otimização e boas práticas de código  
+💡 **Meu objetivo profissional é impactar a vida de pessoas e realmente ajudar com o meu trabalho.**  
+Sou desenvolvedor apaixonado por tecnologia, aprendizado contínuo e por criar soluções que façam diferença no dia a dia das pessoas.  
 
 ---
 
-## 🚀 Tecnologias que mais uso
+## 🚀 Sobre mim
+- 🎯 Busco sempre desenvolver projetos que tragam valor real e impacto positivo.  
+- 💻 Experiência em **Java (Spring Boot)**, **Vue.js (Quasar, Vue 3)** e **APIs RESTful**.    
+- 🌱 Atualmente, expandindo conhecimentos em **boas práticas de arquitetura e escalabilidade**.  
+
+---
+
+## 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats-6unbzokkh.vercel.app/api?username=EnnzoHenchen&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats-6unbzokkh.vercel.app/api/top-langs/?username=EnnzoHenchen&layout=compact&langs_count=8&theme=radical)
 
 ---
 
-✨ _“Transformando ideias em soluções práticas e escaláveis”_
+## 🌍 Conecte-se comigo
+📧 Email: **enzohenchen@hotmail.com**  
+💼 LinkedIn: [linkedin.com/in/ennzo-henchen](https://www.linkedin.com/in/ennzo-henchen-511854224)  
+
+---
+
+✨ _"Acredito que com meu trabalho, posso ajudar e melhorar a vida de pessoas."_  
