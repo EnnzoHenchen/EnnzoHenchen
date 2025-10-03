@@ -8,7 +8,7 @@
 
 ## 🚀 Tecnologias que mais uso
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnnzoHenchen&layout=compact&langs_count=8&theme=radical)
+![Top Langs](https://github-readme-stats-6unbzokkh.vercel.app/api/top-langs/?username=EnnzoHenchen&layout=compact&langs_count=8&theme=radical)
 
 ---
 
