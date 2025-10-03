@@ -26,7 +26,7 @@ Sou desenvolvedor apaixonado por tecnologia, aprendizado contínuo e por criar s
 ## 📈 Estatísticas do GitHub  
 
 <p align="center">
-  <img height="180em" src="github-readme-git-186505-ennzo-gabriel-henchen-rabelos-projects.vercel.app/api/top-langs/?username=EnnzoHenchen&layout=compact&langs_count=8&theme=radical&cache_buster=123" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats-coral-ten-26.vercel.app/api/top-langs/?username=EnnzoHenchen&layout=compact&langs_count=8&theme=radical&cache_buster=2025" alt="Linguagens mais usadas" />
 </p>
 
 ---
