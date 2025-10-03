@@ -12,11 +12,23 @@ Sou desenvolvedor apaixonado por tecnologia, aprendizado contínuo e por criar s
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 🛠️ Tecnologias & Ferramentas  
 
-![Estatísticas do GitHub](https://github-readme-stats-6unbzokkh.vercel.app/api?username=EnnzoHenchen&show_icons=true&theme=radical)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)  
+![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
-![Top Langs](https://github-readme-stats-6unbzokkh.vercel.app/api/top-langs/?username=EnnzoHenchen&layout=compact&langs_count=8&theme=radical)
+---
+
+## 📈 Estatísticas do GitHub  
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-6unbzokkh.vercel.app/api?username=EnnzoHenchen&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats-6unbzokkh.vercel.app/api/top-langs/?username=EnnzoHenchen&layout=compact&langs_count=8&theme=radical" alt="Linguagens mais usadas" />
+</p>
 
 ---
 
@@ -26,4 +38,4 @@ Sou desenvolvedor apaixonado por tecnologia, aprendizado contínuo e por criar s
 
 ---
 
-✨ _"Acredito que com meu trabalho, posso ajudar e melhorar a vida de pessoas."_  
+✨ _"Acredito que através da tecnologia, posso transformar ideias em soluções reais que melhorem a vida das pessoas."_  
