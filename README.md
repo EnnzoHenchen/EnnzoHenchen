@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Ennzo Henchen  
 
 💡 **Meu objetivo profissional é impactar a vida de pessoas e realmente ajudar com o meu trabalho.**  
-Sou desenvolvedor apaixonado por tecnologia, aprendizado contínuo e por criar soluções que façam diferença no dia a dia das pessoas.  
+Sou desenvolvedor apaixonado por criar soluções que façam diferença no dia a dia das pessoas.  
 
 ---
 
